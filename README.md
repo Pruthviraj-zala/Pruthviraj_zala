@@ -35,5 +35,5 @@ Cybersecurity enthusiast currently completing the **Google Cybersecurity Profess
 ---
 
 ## 📬 Connect with Me
-* **LinkedIn:** [Add your LinkedIn Profile URL here]
-* **GitHub:** [https://github.com/](https://github.com/)
+* **LinkedIn:** https://www.linkedin.com/in/pruthviraj-zala/
+* **GitHub:**  [(https://github.com/)](https://github.com/Pruthviraj-zala)
